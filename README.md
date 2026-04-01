@@ -30,11 +30,11 @@ const hameedIsaam = {
 
 <div align="center">
 
-| 🍽️ MealMate | 🛒 OrderIn | 🏎️ F1 Dashboard |
-|:---:|:---:|:---:|
-| Subscription-based meal delivery platform with pause/resume & add-on management | Restaurant ordering system with real-time menu management checkout | Live F1 race strategy dashboard with real-time telemetry & race replay |
-| `HTML` `CSS` `JavaScript` | `TypeScript` `Node.js` | `HTML` `Python` `WebSockets` |
-| [🔗 Live Demo](https://meal-mate-lovat-kappa.vercel.app) · [📁 Repo](https://github.com/hameedisaam5-coder/MealMate) | [🔗 Live Demo](https://order-in-ten.vercel.app) · [📁 Repo](https://github.com/hameedisaam5-coder/OrderIn) | [🔗 Live Demo](https://f1-dashboard-seven.vercel.app) · [📁 Repo](https://github.com/hameedisaam5-coder/f1-dashboard) |
+| 🍽️ MealMate | 🏎️ F1 Dashboard |
+|:---:|:---:|
+| Subscription-based meal delivery platform with pause/resume & add-on management | Live F1 race strategy dashboard with real-time telemetry & race replay |
+| `HTML` `CSS` `JavaScript` | `HTML` `Python` `WebSockets` |
+| [🔗 Live Demo](https://order-in-cyan.vercel.app/) · [📁 Repo](https://github.com/hameedisaam5-coder/MealMate) | [🔗 Live Demo](https://f1-dashboard-seven.vercel.app) · [📁 Repo](https://github.com/hameedisaam5-coder/f1-dashboard) |
 
 </div>
 
