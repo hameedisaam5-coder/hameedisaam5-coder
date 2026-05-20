@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1200&color=7F5AF0&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hameed+Isaam+MN;Building+products+while+learning+deeply" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Hameed+Isaam+MN;Building+products+through+curiosity+and+deep+learning" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A4a3VvbHh3bnZlM2ZrYm5zMWh1cW02ZjlwYWg2N3VnN3k4aW9pZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/216656986-5b0d7f9d-2b0f-4f4f-ae67-df2d7904f5c5.gif" width="100%" />
 
 </div>
 
@@ -16,24 +16,32 @@
 const isaam = {
     role: "Builder & Problem Solver",
 
-    currentlyExploring: [
+    philosophy: [
+        "Understand deeply before building",
+        "Research independently",
+        "Create practical solutions"
+    ],
+
+    exploring: [
         "Web Development",
         "Automation Workflows",
         "Product Thinking",
         "User Experience"
     ],
 
-    approach: [
-        "Understand problems deeply",
-        "Research independently",
-        "Build practical solutions"
-    ],
+    currentMission: "Building products people genuinely enjoy using",
 
-    mindset: "Learn through building",
-
-    currentGoal: "Creating products that people genuinely enjoy using"
+    learningStyle: "Execution > Passive learning"
 }
 ```
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fcee599.gif" width="100%" />
+
+</div>
 
 ---
 
@@ -44,7 +52,7 @@ const isaam = {
 | Project | Description |
 |---|---|
 | 🍽️ MealMate | Food ordering & subscription platform focused on flexibility, convenience, and smooth user experience |
-| 🏎️ F1 Dashboard | Formula 1 dashboard with telemetry concepts, race insights, and interactive visualizations |
+| 🏎️ F1 Dashboard | Interactive Formula 1 dashboard with telemetry concepts, race insights, and visualization ideas |
 
 </div>
 
@@ -55,12 +63,12 @@ const isaam = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-User%20Experience-7F5AF0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-User%20Experience-00C2FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Product-Web%20Platform-black?style=for-the-badge" />
 
 </div>
 
-A modern meal ordering and subscription platform designed around convenience and flexibility.
+A modern meal ordering and subscription platform designed around flexibility and convenience.
 
 ### Features
 
@@ -69,7 +77,7 @@ A modern meal ordering and subscription platform designed around convenience and
 - Add-on management
 - Responsive user interface
 - Smooth ordering experience
-- Product-focused UI
+- Product-focused workflow
 
 ### Tech Stack
 
@@ -86,6 +94,14 @@ https://github.com/hameedisaam5-coder/MealMate
 
 #### Live Demo
 https://order-in-cyan.vercel.app/
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750219-1a7b8f7b-497f-4d5b-bb33-6b6f87c84c48.gif" width="70%" />
+
+</div>
 
 ---
 
@@ -129,6 +145,14 @@ https://f1-dashboard-seven.vercel.app
 
 ---
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-032ecf8d-91cb-4f59-ade6-9d3d17bf4c1f.gif" width="100%" />
+
+</div>
+
+---
+
 # What I Care About
 
 <div align="center">
@@ -158,7 +182,7 @@ https://f1-dashboard-seven.vercel.app
 </a>
 
 <a href="https://hameedisaam5-coder.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00C2FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 </div>
@@ -167,6 +191,6 @@ https://f1-dashboard-seven.vercel.app
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FpaW5wM2RrYmNwbWc4MnY4cnV5cXF6cHF1a2x5M2h0eW9zcnlyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4f7f7a8f-1b8f-4d2d-92d3-0b5cb9b2d6c8.gif" width="100%" />
 
 </div>
