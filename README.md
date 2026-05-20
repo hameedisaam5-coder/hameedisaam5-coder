@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Hameed+Isaam+MN;Building+products+through+curiosity+and+deep+learning" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=320&color=gradient&customColorList=12,20,24,30&text=Hameed%20Isaam%20MN&fontSize=58&fontAlign=50&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Building%20products%20through%20curiosity%20and%20deep%20learning&descAlignY=63&descSize=20" width="100%" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656986-5b0d7f9d-2b0f-4f4f-ae67-df2d7904f5c5.gif" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=I+enjoy+understanding+problems+deeply;Learning+through+building+real+projects;Exploring+web+development+and+automation;Trying+to+build+things+people+actually+use)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,22 +16,22 @@
 const isaam = {
     role: "Builder & Problem Solver",
 
-    philosophy: [
+    approach: [
         "Understand deeply before building",
         "Research independently",
-        "Create practical solutions"
+        "Build practical solutions"
     ],
 
-    exploring: [
+    currentlyExploring: [
         "Web Development",
         "Automation Workflows",
         "Product Thinking",
         "User Experience"
     ],
 
-    currentMission: "Building products people genuinely enjoy using",
+    mindset: "Learning through execution",
 
-    learningStyle: "Execution > Passive learning"
+    currentGoal: "Building products people genuinely enjoy using"
 }
 ```
 
@@ -39,7 +39,7 @@ const isaam = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fcee599.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%" />
 
 </div>
 
@@ -99,7 +99,7 @@ https://order-in-cyan.vercel.app/
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750219-1a7b8f7b-497f-4d5b-bb33-6b6f87c84c48.gif" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%" />
 
 </div>
 
@@ -135,19 +135,17 @@ https://f1-dashboard-seven.vercel.app
 
 ---
 
-# Tech Stack & Tools
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Tech%20Stack%20%26%20Tools&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vercel,vscode" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-032ecf8d-91cb-4f59-ade6-9d3d17bf4c1f.gif" width="100%" />
 
 </div>
 
@@ -169,7 +167,13 @@ https://f1-dashboard-seven.vercel.app
 
 ---
 
-# Connect
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -191,6 +195,6 @@ https://f1-dashboard-seven.vercel.app
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750337-4f7f7a8f-1b8f-4d2d-92d3-0b5cb9b2d6c8.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30&animation=fadeIn" width="100%" />
 
 </div>
