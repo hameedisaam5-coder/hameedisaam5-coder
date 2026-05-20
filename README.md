@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=320&color=gradient&customColorList=12,20,24,30&text=Hameed%20Isaam%20MN&fontSize=58&fontAlign=50&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Building%20products%20through%20curiosity%20and%20deep%20learning&descAlignY=63&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Hameed%20Isaam%20MN&fontSize=55&fontAlign=50&fontAlignY=42&fontColor=ffffff&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&desc=Building%20products%20through%20curiosity%20and%20deep%20learning&descAlignY=63&descSize=20" width="100%" />
 
 <br/>
 
@@ -195,6 +195,6 @@ https://f1-dashboard-seven.vercel.app
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" width="100%" />
 
 </div>
